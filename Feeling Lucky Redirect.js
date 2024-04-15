@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Google 好手氣直接跳轉至目標網頁
 // @namespace    https://github.com/jmsch23280866/
-// @version      0.5
+// @version      0.6
 // @description  此腳本用於刪除前綴https://www.google.com/url?q=
-// @author       Agent E04
+// @author       特務E04
 // @match        *://www.google.com/url?q=*
 // @license      MIT
 // @grant        none
