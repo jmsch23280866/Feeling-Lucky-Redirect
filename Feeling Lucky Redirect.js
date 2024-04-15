@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Google 跳轉直接連結
+// @name         Google 好手氣直接跳轉至目標網頁
 // @namespace    https://github.com/jmsch23280866/
-// @version      0.2
-// @description  Google 好手氣直接跳轉網頁
+// @version      0.3
+// @description  Google 好手氣的跳轉網頁格式通常為https://www.google.com/url?q=http://要前往的網頁.com，此腳本用於刪除前綴https://www.google.com/url?q=
 // @author       Agent E04
 // @match        *://www.google.com/url?q=*
 // @grant        none
