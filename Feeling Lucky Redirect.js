@@ -15,6 +15,6 @@
     if (window.location.href.startsWith("https://www.google.com/url?q=")) {
         // 將指定前段刪去並跳轉至剩餘的部分
         var url = window.location.href.replace("https://www.google.com/url?q=", "");
-        window.location.href = decodeURIComponent(url); // 解碼網址中的特殊字符
+        window.location.replace = decodeURIComponent(url); // 解碼網址中的特殊字符並使用 replace() 方法進行跳轉
     }
 })();
