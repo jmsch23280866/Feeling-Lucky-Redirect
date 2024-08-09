@@ -1,4 +1,4 @@
-It's a greasyfork javascript , it auto redirect when using Google I'm Feeling Lucky
+It's a greasyfork javascript , it auto redirect when using Google I'm Feeling Lucky / Google Search
 
 you can install it from [here](https://greasyfork.org/scripts/492564)
 
