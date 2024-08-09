@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         Google 搜尋直接跳轉至目標網頁
+// @name         Google Search Auto-Redirect / Google 搜尋直接跳轉至目標網頁
+// @name:zh-TW   Google 搜尋直接跳轉至目標網頁
 // @namespace    https://github.com/jmsch23280866/
-// @version      1.0
-// @description  此腳本用於刪除前綴https://www.google.com/url?q= 並直接導向目標網址。(此腳本由ChatGPT協助撰寫)
+// @version      1.1
+// @description  This script is used to remove the prefix https://www.google.com/url?q= and direct to the target URL. (Script assisted by ChatGPT)
+// @description:zh-TW 此腳本用於刪除前綴https://www.google.com/url?q= 並直接導向目標網址。(此腳本由ChatGPT協助撰寫)
 // @author       特務E04
 // @match        *://*.google.*
 // @license      MIT
