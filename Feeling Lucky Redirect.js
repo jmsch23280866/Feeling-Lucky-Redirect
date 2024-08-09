@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google 搜尋直接跳轉至目標網頁
 // @namespace    https://github.com/jmsch23280866/
-// @version      0.7
+// @version      1.0
 // @description  此腳本用於刪除前綴https://www.google.com/url?q= 並直接導向目標網址。(此腳本由ChatGPT協助撰寫)
 // @author       特務E04
 // @match        *://*.google.*
